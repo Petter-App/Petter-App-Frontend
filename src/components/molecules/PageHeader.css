@@ -1,0 +1,7 @@
+.PageHeader {
+  width: 360px;
+  background-color: rgb(223, 242, 248);
+  text-align: center;
+  display: inline-block;
+  margin: 0 auto;
+}

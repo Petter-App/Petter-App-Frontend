@@ -1,0 +1,12 @@
+.AnimalContainer {
+  width: 375px;
+  height: 245px;
+  text-align: center;
+}
+
+.Swiper {
+  width: 360px;
+  text-align: center;
+  display: inline-block;
+  margin: 0 auto;
+}
